@@ -12,7 +12,7 @@
     "compression": "^1.6.2",
     "express": "^4.14.1",
     "googleapis": "^20.0.0",
-    "in-app-purchase": "^1.1.11",
+    "in-app-purchase": "^1.8.1",
     "node-slack": "0.0.7"
   },
   "devDependencies": {
